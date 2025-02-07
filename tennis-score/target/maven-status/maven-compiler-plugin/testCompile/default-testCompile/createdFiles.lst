@@ -1,0 +1,4 @@
+com\example\tennisScore\config\TestConfig.class
+com\example\tennisScore\controller\TennisControllerTest.class
+com\example\tennisScore\service\TennisScoringServiceTest.class
+com\example\tennisScore\TennisScoreApplicationTests.class
