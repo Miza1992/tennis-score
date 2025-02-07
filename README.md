@@ -29,7 +29,7 @@ Avant de lancer l'application, assurez-vous d'avoir installé :
 
 ### 👅 1️⃣ **Cloner le Projet**
 ```bash
-git clone https://github.com/votre-repository/tennis-score.git
+git clone https://github.com/Miza1992/tennis-score.git
 cd tennis-score
 ```
 
